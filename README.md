@@ -1,2 +1,2 @@
 # Email-Remainder
-nope
+Send Reminders to Email via this Email Reminder System 
